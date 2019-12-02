@@ -1,0 +1,32 @@
+{
+  "name": "react-navigation-use-getparam",
+  "version": "0.0.1",
+  "description": "for getParam hooks with react-navigation v5",
+  "main": "dist/index.js",
+  "types": "types/index.d.ts",
+  "scripts": {
+    "build": "tsc --project tsconfig.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:watanabeyu/react-navigation-use-getparam.git"
+  },
+  "keywords": [
+    "react-native",
+    "react-navigation"
+  ],
+  "author": "Yu Watanabe <fight.ippatu5648@gmail.com> (https://github.com/watanabeyu)",
+  "bugs": {
+    "url": "https://github.com/watanabeyu/react-navigation-use-getparam/issues"
+  },
+  "homepage": "https://github.com/watanabeyu/react-navigation-use-getparam",
+  "devDependencies": {
+    "@react-navigation/core": "^5.0.0-alpha.24",
+    "react": "16.9.0",
+    "react-native": "0.61.4",
+    "typescript": "^3.7.2"
+  },
+  "peerDependencies": {
+    "@react-navigation/core": "^5.0.0-alpha.0"
+  }
+}
