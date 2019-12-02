@@ -1,6 +1,6 @@
 {
   "name": "react-navigation-use-getparam",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "for getParam hooks with react-navigation v5",
   "main": "dist/index.js",
   "types": "types/index.d.ts",
