@@ -23,7 +23,7 @@
   "devDependencies": {
     "@react-navigation/core": "^5.0.0-alpha.24",
     "react": "16.9.0",
-    "react-native": "0.61.4",
+    "react-native": "0.62.3",
     "typescript": "^3.7.2"
   },
   "peerDependencies": {
